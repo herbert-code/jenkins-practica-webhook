@@ -1,0 +1,21 @@
+{
+  "name": "jenkins-practica-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herbert-code/jenkins-practica-webhook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/herbert-code/jenkins-practica-webhook/issues"
+  },
+  "homepage": "https://github.com/herbert-code/jenkins-practica-webhook#readme"
+}
